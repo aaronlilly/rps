@@ -1,0 +1,19 @@
+#btnDiv{
+    margin: 2%;}
+
+#append{
+    margin:2%;}
+
+#type{
+ font-weight: bold;
+font-size:22px;
+margin:3px;}
+
+.bg-primary{
+padding:5px;
+color:white;
+}
+
+.bg-warning{
+padding:5px;
+}
