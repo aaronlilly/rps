@@ -1,3 +1,3 @@
 # rps
 
-https://aaronlilly.github.io/rps/
+https://aaronlilly.github.io/rps/rps.html
